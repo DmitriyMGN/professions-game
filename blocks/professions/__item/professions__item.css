@@ -1,0 +1,8 @@
+.professions__item {
+  margin: 0;
+  padding: 0;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

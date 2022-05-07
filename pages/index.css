@@ -1,0 +1,12 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../vendor/fonts/fonts.css);
+
+@import url(../blocks/header/__title/header__title.css);
+
+@import url(../blocks/professions/professions.css);
+@import url(../blocks/professions/__list/professions__list.css);
+@import url(../blocks/professions/__item/professions__item.css);
+@import url(../blocks/professions/__name/professions__name.css);
+@import url(../blocks/professions/__photo/professions__photo.css);
+@import url(../blocks/professions/__button/professions__button.css);
