@@ -1,0 +1,5 @@
+.professions_close {
+  visibility: hidden;
+  opacity: 0.3;
+  transition: visibility 1s, opacity 1s ease-in-out;
+}
